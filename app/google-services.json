@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1039876564787",
+    "firebase_url": "https://ltfoodsstoremapping.firebaseio.com",
+    "project_id": "ltfoodsstoremapping",
+    "storage_bucket": "ltfoodsstoremapping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039876564787:android:a582792f615587eb",
+        "android_client_info": {
+          "package_name": "astix.lt_foods_storemapping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039876564787-if5gobf2v4ktin73tfs2pggadq30qu80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRL02dZtWDS_StKPiwJQ8CUyjDNzdn0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
